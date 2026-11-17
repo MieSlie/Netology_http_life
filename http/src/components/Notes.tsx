@@ -56,4 +56,4 @@ const Notes = () => {
   )
 }
 
-export default Notes
+export default Notes 
