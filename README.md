@@ -1,0 +1,1 @@
+зависимости: Tailwind, Cors, Express
